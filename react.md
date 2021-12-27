@@ -15,3 +15,8 @@ https://blog.bracketsinstitute.com/re-rendering-in-react
 https://dev.to/lukeshiru
 https://lukeshiru.me/
 ```
+
+## React top interview Questions, must read
+```
+https://dev.to/frontendengineer/react-interview-questions-part-2-mid-senior-level-cal
+```
