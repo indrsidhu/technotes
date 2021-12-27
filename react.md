@@ -8,3 +8,10 @@ https://dev.to/harshkc/stop-building-your-ui-components-like-this-19il
 ```
 https://blog.bracketsinstitute.com/re-rendering-in-react
 ```
+
+
+## Follow this senior software developer
+```
+https://dev.to/lukeshiru
+https://lukeshiru.me/
+```
