@@ -7,7 +7,7 @@ systemctl restart nginx
 
 pm2 list
 pm2 delete
-pm2 start yarn --name "nextjs" -- start
+pm2 start yarn --name "nextjs" -- start:production
 
 pm2 restart nextjs
 ```
