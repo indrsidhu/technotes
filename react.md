@@ -20,3 +20,9 @@ https://lukeshiru.me/
 ```
 https://dev.to/frontendengineer/react-interview-questions-part-2-mid-senior-level-cal
 ```
+
+## WEB DEVELOPER HELPER TOOLS ##
+https://omatsuri.app/
+```
+https://github.com/rtivital/omatsuri
+```
