@@ -3,6 +3,11 @@
 https://dev.to/harshkc/stop-building-your-ui-components-like-this-19il
 ```
 
+## React UI component create with TypeScript and highly customizable with styled-component
+```
+https://blog.logrocket.com/build-component-library-react-typescript/
+```
+
 ## Re-rendering in React
 #### A very interesting ReactJS interview question
 ```
